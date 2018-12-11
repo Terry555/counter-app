@@ -31,11 +31,7 @@ p.para1 {
   border-color: black;
   border-width: 2px;
   border-style: solid;
-  margin: 20px;
-  margin-top: 50px;
-  /* margin-bottom: 20px; */
-  margin-left: 400px;
-  /* margin-right: 20px; */
+  margin: 20px 200px 20px 20px;
 }
 
 p.para2 {
@@ -56,6 +52,7 @@ img.image1 {
   background-color: silver;
   border-width: 2px;
   border-style: solid;
+  width: 40%;
 }
 
 @keyframes App-logo-spin {
