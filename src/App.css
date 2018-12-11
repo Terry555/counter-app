@@ -25,13 +25,9 @@
 p.para1 {
   font-size: 15px;
   line-height: 2.3em;
-  color: red;
-  background-color: purple;
-  /* padding: 50px; */
-  padding-left: 50px;
-  /* padding-right: 50px;
-  padding-top: 50px;
-  padding-bottom: 50px; */
+  color: black;
+  background-color: green;
+  padding: 0px 0px 0px 50px;
   border-color: black;
   border-width: 2px;
   border-style: solid;
